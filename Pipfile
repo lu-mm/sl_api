@@ -31,7 +31,7 @@ celery = "*"
 redis = "*"
 flower = "*"
 celery-once = "*"
-ansible = "==2.7"
+ansible = "==4.2.0"
 gunicorn = "*"
 autoenv = "*"
 
